@@ -21,7 +21,7 @@ def step_impl(context):
     time.sleep(1)
 
 
-@when(u'tab around the App {icon}')
+@when(u'tap around the App {icon}')
 def step_impl(context, icon):
     time.sleep(1)
     if icon == 'My Story':
