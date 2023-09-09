@@ -1,4 +1,4 @@
-# This is a demo using Appium with Python.
+# This is a demo using Appium with Python and BDD (Behave) test framework
 
 Prerequisite setup to run:
 
