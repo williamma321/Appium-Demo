@@ -1,8 +1,8 @@
 Feature: iPhone About Me Mobile App test
 
-  Scenario Outline: Navigate the App and Tag all icons
+  Scenario Outline: Navigate the App and Tap all icons
      Given the App loaded on devices
-     When tab around the App <icon>
+     When tap around the App <icon>
      Then display specific Tab <dispinfo>
 
     Examples:
